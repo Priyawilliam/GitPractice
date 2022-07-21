@@ -1,1 +1,3 @@
 # GitPractice
+
+git commands
